@@ -1,0 +1,2 @@
+FileName,FilePath,Error
+automation_data_by_state.csv,occupation-salary-and-likelihood-of-automation/automation_data_by_state.csv,'utf-8' codec can't decode byte 0x92 in position 75061: invalid start byte

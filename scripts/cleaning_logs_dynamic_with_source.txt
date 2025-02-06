@@ -1,0 +1,12 @@
+Skipped ai_ml_jobs_linkedin.csv: No relevant columns found after renaming.
+Processed ai_job_market_insights.csv successfully with 500 rows and 5 columns.
+Skipped ai_ml_jobs_linkedin.csv: No relevant columns found after renaming.
+Skipped Technographic Data .csv: No relevant columns found after renaming.
+Skipped Technographic Data .csv: No relevant columns found after renaming.
+Skipped data_science_salaries.csv: No relevant columns found after renaming.
+Skipped My_Data.csv: No relevant columns found after renaming.
+Processed robotics_data.csv successfully with 27 rows and 4 columns.
+Skipped jobs_in_data_2024.csv: No relevant columns found after renaming.
+Skipped occupation_salary.xlsx: No relevant columns found after renaming.
+Processed Salary_Dataset_with_Extra_Features.csv successfully with 22770 rows and 4 columns.
+Processed Software_Professional_Salaries.csv successfully with 22774 rows and 4 columns.

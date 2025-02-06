@@ -1,0 +1,81 @@
+Processed arXiv Social Considerations.xlsx successfully with 23 rows and 1 columns.
+Processed OutAiPaperCitationCountryPairByYearDocType.xlsx successfully with 254303 rows and 1 columns.
+Processed Regional All Metrics 2015-18.xlsx successfully with 150 rows and 2 columns.
+Skipped Volume, Per Capita, Share_ Journals, Conference, Patents.xlsx: No relevant columns found after renaming.
+Skipped Volumetrics and Qualitymetrics_ Journals, Conference, Patents.xlsx: No relevant columns found after renaming.
+Skipped 2019-08-17_counts_year.xlsx: No relevant columns found after renaming.
+Skipped 2019-08-17_rca_year.xlsx: No relevant columns found after renaming.
+Skipped DL pc arXiv.xlsx: No relevant columns found after renaming.
+Skipped Women_in_ai_country_data.xlsx: No relevant columns found after renaming.
+Processed WiML.xlsx successfully with 20 rows and 1 columns.
+Skipped conf_matches.csv: No relevant columns found after renaming.
+Skipped conf_matches.xlsx: No relevant columns found after renaming.
+Skipped conf_matches_aggregated.csv: No relevant columns found after renaming.
+Skipped conf_matches_aggregated.xlsx: No relevant columns found after renaming.
+Skipped AI Index - AI And Compute Data_ How much compute headline results have used.xlsx: No relevant columns found after renaming.
+Skipped Private On Prem Cloud Training Time - ImageNet.xlsx: No relevant columns found after renaming.
+Skipped SQuAD.xlsx: No relevant columns found after renaming.
+Skipped AI2 Leaderboards.xlsx: No relevant columns found after renaming.
+Skipped Intento - Commercial MT Performance.xlsx: No relevant columns found after renaming.
+Processed SQuAD1.1 and SQuAD2.0.xlsx successfully with 176 rows and 1 columns.
+Skipped SuperGLUE.xlsx: No relevant columns found after renaming.
+Skipped Summary Data.xlsx: No relevant columns found after renaming.
+Processed CIFAR-100.xlsx successfully with 64 rows and 1 columns.
+Processed Copy of CIFAR-100 - November 10, 10_06 AM.xlsx successfully with 54 rows and 1 columns.
+Processed ImageNet.xlsx successfully with 123 rows and 1 columns.
+Processed CIFAR-10.xlsx successfully with 40 rows and 1 columns.
+Processed CityScapes.xlsx successfully with 49 rows and 1 columns.
+Processed PASCAL Context.xlsx successfully with 22 rows and 1 columns.
+Processed Pascal VOC 2012.xlsx successfully with 24 rows and 1 columns.
+Skipped AI Postings USA monthly data.xlsx: No relevant columns found after renaming.
+Skipped Burning Glass Results.xlsx: No relevant columns found after renaming.
+Skipped Indeed State AI.xlsx: No relevant columns found after renaming.
+Skipped Multi Country.xlsx: No relevant columns found after renaming.
+Skipped Chapter 4.2.2. BloombergGOV_ US AI Public Investment.xlsx: No relevant columns found after renaming.
+Skipped Industry adoption.xlsx: No relevant columns found after renaming.
+Processed AI_Index.xlsx successfully with 18 rows and 1 columns.
+Processed Copy of AI_Index.xlsx successfully with 18 rows and 1 columns.
+Skipped AI faculty gender breakdown.xlsx: No relevant columns found after renaming.
+Skipped Copy of Copy of Data to Share with Stanford, SG.xlsx: No relevant columns found after renaming.
+Processed AV Pilot Map Content - 2019 REV - LIVE DATA.xlsx successfully with 135 rows and 4 columns.
+Skipped Countries Testing AVs.xlsx: No relevant columns found after renaming.
+Skipped Collision Metrics.xlsx: No relevant columns found after renaming.
+Skipped Crash per million analysis.xlsx: No relevant columns found after renaming.
+Skipped US State Law - GHSA.xlsx: No relevant columns found after renaming.
+Skipped Sincerity and Authenticity Types.xlsx: No relevant columns found after renaming.
+Skipped IPSOS Autonomous Weapons Questionnaire - translation document.xlsx: No relevant columns found after renaming.
+Skipped Copy of IPSOS Autonomous Weapons Questionnaire - translation document.xlsx: No relevant columns found after renaming.
+Skipped Government mentions - 2019.xlsx: No relevant columns found after renaming.
+Skipped ai_mentions.xlsx: No relevant columns found after renaming.
+Skipped central_bank_ai_mentions (1).xlsx: No relevant columns found after renaming.
+Skipped SIPRI Dataset on autonomy in weapon systems Public.xlsx: No relevant columns found after renaming.
+Skipped Copy of Country coverage.xlsx: No relevant columns found after renaming.
+Skipped Global AI Vibrancy Codebook.xlsx: No relevant columns found after renaming.
+Skipped 36IndicatorsRAW+ScaledData(above 70_) 11_20_2019.xlsx: No relevant columns found after renaming.
+Processed 1, 7, 13. MAG Volume_ AI Journals, Conference Publications and Patents (num_AIconf_papers, num_AIjournal_papers, num_AIpatents).xlsx successfully with 6702 rows and 1 columns.
+Skipped 22. Coursera_ AI Enrollment Share (enroll_share).xlsx: No relevant columns found after renaming.
+Skipped 23. Coursera AI Skill Percentile Rank - 2018 (skill percentile_rank).xlsx: No relevant columns found after renaming.
+Skipped 24, 25. LinkedIn_ AI Skill Penetration and number of AI occupations (skill_penetration, num_AIocc).xlsx: No relevant columns found after renaming.
+Skipped 26.  LinkedIn_ AI Hiring Index (ai_hiring_index).xlsx: No relevant columns found after renaming.
+Processed 3 9, 15. MAG Citations_ AI Conference paper, journal, and patent citations (num_AIconf_citation, num_AIjournal_citation, num_AIpatent_citation).xlsx successfully with 254303 rows and 1 columns.
+Skipped 32. NESTA arXiv_ Female AI authors (female_ai_authors).xlsx: No relevant columns found after renaming.
+Skipped 33, 35. LinkedIn_ Female AI Skill Penetration and Female Number of AI occupations (female_ai_skill_penetration, num_AIocc_fem).xlsx: No relevant columns found after renaming.
+Skipped 34, 36. LinkedIn_ Male AI Skill Penetration and Male number of AI occupations (male_ai_skill_penetration, num_AIocc_male).xlsx: No relevant columns found after renaming.
+Processed 5, 11, 17. MAG References_ AI Conference paper, journal, and patent citations (num_AIconf_references, num_AIjournal_references, num_AIpatent_references).xlsx successfully with 217791 rows and 1 columns.
+Skipped WB_Region_codes.xlsx: No relevant columns found after renaming.
+Skipped WDI_Total_Population.xlsx: No relevant columns found after renaming.
+Processed National AI Strategy Database.xlsx successfully with 54 rows and 1 columns.
+Skipped Graphs - Industry adoption.xlsx: No relevant columns found after renaming.
+Skipped AI Index Questions on Metaculus.xlsx: No relevant columns found after renaming.
+Skipped ai_ml_jobs_linkedin.csv: No relevant columns found after renaming.
+Processed ai_job_market_insights.csv successfully with 500 rows and 4 columns.
+Skipped ai_ml_jobs_linkedin.csv: No relevant columns found after renaming.
+Skipped Technographic Data .csv: No relevant columns found after renaming.
+Skipped Technographic Data .csv: No relevant columns found after renaming.
+Skipped data_science_salaries.csv: No relevant columns found after renaming.
+Skipped My_Data.csv: No relevant columns found after renaming.
+Processed robotics_data.csv successfully with 27 rows and 3 columns.
+Skipped jobs_in_data_2024.csv: No relevant columns found after renaming.
+Skipped occupation_salary.xlsx: No relevant columns found after renaming.
+Processed Salary_Dataset_with_Extra_Features.csv successfully with 22770 rows and 3 columns.
+Processed Software_Professional_Salaries.csv successfully with 22774 rows and 3 columns.
